@@ -1,18 +1,26 @@
 body { 
 background-color: black;
 color: white;
-font-family: Arial, sans-serif;
+font-family: Arial, sans-serif  ;
 }
 
 a:link {color: aqua;}
-a:visited {color:aqua;}
+a:visited {color: aqua;}
+
+.main {
+width: 333px;
+margin: 0 auto;
+margin-top: 33px;
+}
 
 .one{ 
 border: 1px solid white;
+border-radius: 10px;
 padding: 10px;
 }
 
 .two { 
+border-radius: 10px;
 border: 1px solid white;
 padding: 10px;
 }
