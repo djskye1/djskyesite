@@ -8,7 +8,8 @@ a:link {color: aqua;}
 a:visited {color: aqua;}
 
 .main {
-width: 333px;
+width: 28%;
+min-width: 300px;
 margin: 0 auto;
 margin-top: 33px;
 }
