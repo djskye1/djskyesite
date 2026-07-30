@@ -9,18 +9,17 @@ a:visited {color: #efe1fa;}
 
 .sidebar {
 margin: 0 auto;
-width:44%;
-min-width: 444px;
+width:400px;
 margin-top: 33px;
 }
+
 .sidebarnav {
 display:flex;
 gap: 20px;
 }
 
 .main {
-width: 44%;
-min-width: 444px;
+width: 444px;
 margin: 0 auto;
 }
 
